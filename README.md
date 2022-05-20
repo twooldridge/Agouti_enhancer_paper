@@ -21,9 +21,11 @@ If you have questions about code, versions, etc., please contact:<br>
 7. `haplotype_homozygosity.ipynb` - phasing of both WGS and sequence capture data, and searching for haplotype-based signals of selection using the R package _REHH_
 8. `agouti_conservation.ipynb` - retrieval of Agouti sequences from rodent taxa, analyses of conservation with _phyloP_
 9. `agouti_population_genetics.ipynb` - querying diversity (e.g. Theta Pi, DXY, FST) around Agouti (as well as genome wide)
-10. 
+
 
 ## Helper scripts
 1. `bamdepth2bed.py` - python script for taking the file produced by _samtools depth_ and creating a site mask
 2. `bwa_aln_best_practices.sh` - short-read alignment pipeline, implemented in the `alignment_varcalling.ipynb` notebook
 
+## Other
+1. `polionotus_phenotypes.txt` - File containing all phenotypes used in the paper, from both the core _albifrons_ pop. and other beach and mainland populations. For analysis of this dataset, see `pigmentation_phenotyping.ipynb`
