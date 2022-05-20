@@ -2,6 +2,10 @@
 # "A novel enhancer of <i>Agouti</i> contributes to parallel evolution of cryptically colored beach mice"  <br>
 (Insert PNAS link here eventually)
 
+
+<img src="https://github.com/twooldridge/Agouti_enhancer_paper/blob/main/IMG_0728.jpeg" width="200" />
+
+
 # Summary
 
 In here, you'll find all code used for the analyses in this project. The code is presented primarily as a set of annotated, modular, and hopefully streamlined jupyter notebooks which employ python, R, and bash. There are also a handful of helper scripts. 
